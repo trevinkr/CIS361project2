@@ -1,0 +1,19 @@
+     Identifier     Line Number
+     ----------     -----------
+        typedef    11 11
+         struct    11 28
+       mystruct    11 28
+            int    12 15 15 21 22
+           data    12
+           main    15
+           argc    15 17
+           char    15 23
+             if    17 30 35
+       variable    21 32
+          count    22 30 33 33 35 37 43
+              s    28
+           var2    31
+           else    34
+     _myvar8ble    36 37 38
+         printf    43
+         return    45
